@@ -1,0 +1,11 @@
+{
+  "name": "amukh1-sessionmanager",
+  "version": "1.0.0",
+  "description": "A session manager to manage your sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amukh1",
+  "license": "ISC"
+}
